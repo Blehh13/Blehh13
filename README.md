@@ -120,6 +120,7 @@ Outside of tech, I’m usually either watching cat videos, wishing the weather w
 
 ---
 
+
 ## 🐍 contribution graph
 
 ![Snake animation](https://github.com/Blehh13/Blehh13/blob/output/github-contribution-grid-snake.svg)
