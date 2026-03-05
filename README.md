@@ -82,10 +82,10 @@ Smaller projects where I test ideas related to:
 
 ## 📊 github stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blehh13&show_icons=true)
+## 📊 github stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blehh13&layout=compact)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Blehh13&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blehh13&layout=compact" />
 ---
 
 ## 🧩 how i think about problems
