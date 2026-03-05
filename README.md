@@ -82,9 +82,9 @@ Smaller projects where I test ideas related to:
 
 ## 📊 github stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Blehh13\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blehh13&show_icons=true)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blehh13\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blehh13&layout=compact)
 
 ---
 
@@ -122,4 +122,6 @@ Outside of tech, I’m usually either watching cat videos, wishing the weather w
 
 ## 🐍 contribution graph
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+## 🐍 contribution graph
+
+![Snake animation](https://github.com/Blehh13/Blehh13/blob/output/github-contribution-grid-snake.svg)
