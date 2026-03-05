@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Banu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Smart%20City%20Systems%20%7C%20Real-World%20AI&descAlignY=55&descAlign=50"/>
 </p>
 
 <h1 align="center">hey, i'm banu 👋</h1>
@@ -25,6 +25,8 @@ Right now I'm exploring how **machine learning, data systems, and platforms** ca
 * Platforms that enable **collaborative problem solving**
 * Designing systems that connect **technology and real-world impact**
 
+<p align="center">🏙️ 🌉 🚦 🌃</p>
+
 ---
 
 ## 🚧 projects i'm working on
@@ -36,7 +38,7 @@ A platform where institutions post real-world challenges and student teams colla
 The goal is to create a **problem-solving ecosystem** where people work on meaningful challenges rather than isolated academic assignments.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blehh13&repo=SproutNet" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blehh13&repo=SproutNet"/>
 </p>
 
 ---
@@ -48,7 +50,7 @@ A system designed to help people find and reserve parking spaces around a chosen
 The project explores how **data-driven systems** can reduce small but widespread urban inefficiencies.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blehh13&repo=Parking-Platform" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blehh13&repo=Parking-Platform"/>
 </p>
 
 ---
