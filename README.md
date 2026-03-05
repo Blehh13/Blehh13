@@ -62,6 +62,17 @@ Smaller projects where I test ideas related to:
 * data-driven decision systems
 * data structures & algorithms
 * system architecture for scalable platforms
+* ---
+
+## 🎯 current focus
+
+Right now I'm focused on strengthening the foundations needed to build larger systems:
+
+* improving **machine learning and deep learning fundamentals**
+* building **platform-scale projects**
+* strengthening **data structures & algorithms**
+* exploring how AI systems can support **real-world infrastructure problems**
+
 
 ---
 
