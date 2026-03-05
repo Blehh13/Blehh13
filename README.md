@@ -25,8 +25,6 @@ Right now I'm exploring how **machine learning, data systems, and platforms** ca
 * Platforms that enable **collaborative problem solving**
 * Designing systems that connect **technology and real-world impact**
 
-<p align="center">🏙️ 🌉 🚦 🌃</p>
-
 ---
 
 ## 🚧 projects i'm working on
@@ -37,10 +35,6 @@ A platform where institutions post real-world challenges and student teams colla
 
 The goal is to create a **problem-solving ecosystem** where people work on meaningful challenges rather than isolated academic assignments.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blehh13&repo=SproutNet"/>
-</p>
-
 ---
 
 ### 🚗 Smart Parking Platform
@@ -48,10 +42,6 @@ The goal is to create a **problem-solving ecosystem** where people work on meani
 A system designed to help people find and reserve parking spaces around a chosen location.
 
 The project explores how **data-driven systems** can reduce small but widespread urban inefficiencies.
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blehh13&repo=Parking-Platform"/>
-</p>
 
 ---
 
@@ -95,12 +85,6 @@ Smaller projects where I test ideas related to:
 
 ---
 
-## 📊 activity
-
-[![Banu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blehh13\&theme=github-dark)](https://github.com/Blehh13)
-
----
-
 ## 🧩 how i think about problems
 
 Two things shape how I approach projects.
@@ -130,9 +114,3 @@ Right now the process is simple:
 ---
 
 Outside of tech, I’m usually either watching cat videos, wishing the weather was colder, or eating something unnecessarily spicy.
-
----
-
-## 🐍 contribution graph
-
-![Snake animation](https://github.com/Blehh13/Blehh13/blob/output/github-contribution-grid-snake.svg)
