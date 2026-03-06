@@ -135,11 +135,11 @@ build → break → understand → rebuild
 ## commit arcade
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Blehh13/Blehh13/output/github-contribution-grid-pacman.svg">
+  <img src="https://raw.githubusercontent.com/Blehh13/Blehh13/output/github-contribution-grid-pacman.gif">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Blehh13/Blehh13/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Blehh13/Blehh13/output/github-contribution-grid-snake-dark.gif">
 </p>
 
 ---
