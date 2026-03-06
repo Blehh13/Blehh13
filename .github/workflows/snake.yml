@@ -13,23 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Animations
+        uses: Platane/snk@v3
         with:
           github_user_name: Blehh13
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: Blehh13
-
-      - name: Move Pacman to dist
-        run: |
-          mkdir -p dist
-          if [ -f pacman-contribution-graph.svg ]; then mv pacman-contribution-graph.svg dist/pacman.svg; fi
-          if [ -f github-contribution-grid-pacman.svg ]; then mv github-contribution-grid-pacman.svg dist/pacman.svg; fi
-          ls -R dist/
+            dist/github-contribution-grid-pacman.svg?color_snake=#f9f902&color_dots=#161b22,#4c1d95,#7c3aed,#a78bfa,#c4b5fd
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
