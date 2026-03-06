@@ -27,7 +27,9 @@ jobs:
       - name: Move Pacman to dist
         run: |
           mkdir -p dist
-          mv github-contribution-grid-pacman.svg dist/
+          if [ -f pacman-contribution-graph.svg ]; then mv pacman-contribution-graph.svg dist/pacman.svg; fi
+          if [ -f github-contribution-grid-pacman.svg ]; then mv github-contribution-grid-pacman.svg dist/pacman.svg; fi
+          ls -R dist/
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
