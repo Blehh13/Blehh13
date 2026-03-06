@@ -132,10 +132,14 @@ build → break → understand → rebuild
 
 ---
 
-## commit snake
+## commit arcade
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Blehh13/Blehh13/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Blehh13/Blehh13/output/github-contribution-grid-pacman.svg">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blehh13/Blehh13/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
